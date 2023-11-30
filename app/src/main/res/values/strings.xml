@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="api_key">c6363f9014c64084946c62a710184b8b</string>
+    <string name="something_went_wrong_n_please_try_again">Something went wrong\n\t\t\tplease try again!!</string>
+    <string name="no_internet_connection">No internet Connection</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="news_image">News image</string>
+    <string name="search_button">search button</string>
+    <string name="search">search</string>
+    <string name="share_news">share news</string>
+    <string name="news_view_pager">News view pager</string>
+    <string name="news_contents">news contents</string>
+    <string name="news_categories">news categories</string>
+    <string name="the_indian_times">the indian times</string>
+
+    <!-- Strings for items in activity_main_drawer.xml -->
+    <string name="ic_title_home">Home</string>
+    <string name="ic_title_world">World</string>
+    <string name="ic_title_science">Science</string>
+    <string name="ic_title_sport">Sport</string>
+    <string name="ic_title_environment">Environment</string>
+    <string name="ic_title_society">Society</string>
+    <string name="ic_title_fashion">Fashion</string>
+    <string name="ic_title_business">Business</string>
+    <string name="ic_title_culture">Culture</string>
+    <string name="ic_title_settings">settings</string>
+    <string name="more_sections">More sections</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+</resources>
